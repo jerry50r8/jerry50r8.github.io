@@ -51,7 +51,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/jerry.torres.583"
   resume_linkedin_url:          "https://www.linkedin.com/in/jerry-torres-b438a1198/"
   resume_instagram_url:         "https://www.instagram.com/jerry_50r8/"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 

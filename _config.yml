@@ -45,7 +45,7 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://jerry50r8.github.io/"
+  resume_github_url:            "https://github.com/jerry50r8"
   resume_twitter_url:           "https://twitter.com/JerryTo10726616"
   # resume_dribbble_url:          ""
   resume_facebook_url:          "https://www.facebook.com/jerry.torres.583"

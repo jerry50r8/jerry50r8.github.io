@@ -17,13 +17,13 @@ resume_title:                   "Experimental sciences pedagogy Computer science
 resume_contact_email:           "https://drive.google.com/file/d/12oGBvZAILbi8EbIKgJzlubJ1yAnFOiUF/view?usp=sharing"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+593 ** *** ****"
+resume_contact_address:         "Campus Dolorosa in Riobamba,Ecuador"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Riobamba - Ecuador"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hello, I am Jerry Torres, I'm 21 years old, I consider myself a person with many virtues, skills, abilities and defects that characterize me as a person among which I could highlight is that I am friendly, sociable, cheerful, respectful among others, my defects that usually is that I am a perfectionist and I like to work alone, however I am always willing to listen to suggestions and to accept my mistakes and learn from them since it is our mistakes that make us human, while my skills, abilities and skills I will continue to tell you later</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -37,22 +37,22 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "https://jerry50r8.github.io/"
+  resume_twitter_url:           "https://twitter.com/JerryTo10726616"
+  # resume_dribbble_url:          ""
+  resume_facebook_url:          "https://www.facebook.com/jerry.torres.583"
+  resume_linkedin_url:          "https://www.linkedin.com/in/jerry-torres-b438a1198/"
+  resume_instagram_url:         "https://www.instagram.com/jerry_50r8/"
+  resume_website_url:           "https://www.youtube.com/channel/UCfhN2jxfJXro2OjdvSFIE2Q"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
